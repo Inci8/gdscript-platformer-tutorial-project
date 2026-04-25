@@ -13,4 +13,4 @@ My modifications include:
 
 Further changes may be added in future.
 
-👉 The finished game can be downloaded here: https://8ynd.itch.io/jumping-knight
+👉 The game can be downloaded here for free: https://8ynd.itch.io/jumping-knight
