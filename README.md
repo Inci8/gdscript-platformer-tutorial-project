@@ -4,6 +4,7 @@ The core mechanics, structure, and implementation follow the tutorial, which was
 My modifications include:
 
 Adjusted player movement speed
+
 Adjusted jump height
 
-Further improvements and features may be added in future.
+Further changes may be added in future.
