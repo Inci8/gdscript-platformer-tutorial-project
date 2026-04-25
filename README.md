@@ -3,8 +3,10 @@ The core mechanics, structure, and implementation follow the tutorial, which was
 
 My modifications include:
 
-Adjusted player movement speed
+- modified level design to experiment with gameplay flow and difficulty balancing
 
-Adjusted jump height
+- adjusted player movement speed
+
+- adjusted jump height
 
 Further changes may be added in future.
